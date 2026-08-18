@@ -70,12 +70,10 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="left">
   <img height="165" src="https://github-readme-stats-sahana18.vercel.app/api?username=sahana666&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sahana666&theme=radical&hide_border=true" />
 </p>
-
 <p align="left">
   <img src="https://github-readme-stats-sahana18.vercel.app/api/top-langs/?username=sahana666&layout=compact&theme=radical&hide_border=true" />
 </p>
