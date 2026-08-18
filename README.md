@@ -125,8 +125,3 @@ Responsive restaurant website built with React featuring menu browsing, table re
 
 ---
 
-<p align="center">
-  Thanks for stopping by! 🌱
-  <br>
-  Always open to learning, building, and connecting.
-</p>
