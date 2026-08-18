@@ -105,7 +105,7 @@ Coming soon — automated via GitHub Actions
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/sahana666" target="_blank">
+  <a href="https://www.linkedin.com/in/sahana-436009343/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
