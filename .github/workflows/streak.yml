@@ -1,0 +1,23 @@
+name: Streak Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: DenverCoder1/github-readme-streak-stats-generator@v1
+        with:
+          user_id: sahana666
+          github_token: ${{ secrets.STREAK_TOKEN }}
+          output: streak-stats.svg
+          theme: radical
+          hide_border: true
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "update streak stats"
