@@ -110,7 +110,7 @@ Coming soon — automated via GitHub Actions
   </a>
 </p>
 
-> Replace the LinkedIn URL above with your actual profile link — I used a placeholder since you didn't share the handle.
+
 
 ---
 
