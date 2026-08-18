@@ -34,7 +34,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahana666&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahana666&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sahana666&theme=radical&hide_border=true" />
 </p>
 
